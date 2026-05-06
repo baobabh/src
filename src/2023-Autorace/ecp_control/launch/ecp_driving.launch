@@ -1,3 +1,0 @@
-<launch>
-  <node pkg="ecp_control" type="ecp_driving.py" name="ecp_driving" output="screen"/>
-</launch>
